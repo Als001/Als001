@@ -6,3 +6,4 @@ Ejemplos:
  - curry
  - perejil
  - ...
+ faltan muchas como la canela, mostaza, 
