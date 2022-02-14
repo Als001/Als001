@@ -1,1 +1,8 @@
-especies
+Las especies son muy útiles para condimentar platos.
+Ejemplos:
+ - oregano
+ - pimienta
+ - tomillo
+ - curry
+ - perejil
+ - ...
