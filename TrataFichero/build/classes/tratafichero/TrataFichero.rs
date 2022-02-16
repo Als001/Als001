@@ -1,0 +1,3 @@
+tratafichero.CopyFileTry
+tratafichero.TratarFichero$Proper
+tratafichero.TratarFichero
