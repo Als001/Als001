@@ -1,0 +1,10 @@
+Las especies son muy útiles para condimentar platos.
+Ejemplos:
+ - oregano
+ - pimienta
+ - tomillo
+ - curry
+ - perejil
+ - ...
+ faltan muchas como la canela, mostaza, 
+-> ASL si, hay que ir al carrefour y ver  (14-02: 15:45)
