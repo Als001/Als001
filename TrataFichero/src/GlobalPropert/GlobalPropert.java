@@ -13,9 +13,9 @@ package GlobalPropert;
 public class GlobalPropert {
 
 public enum Proper {
-   FICHERO1("C:/Java/Prueba11.txt"),
-   FICHERO2("C:/Java/Prueba22.txt"),
-   OUT("C:/Java/Out.txt");
+   FICHERO1("C:/Java/Prueba.txt"),
+   FICHERO2("C:/Java/Prueba2.txt"),
+   OUT("C:/Java/OutNet.txt");
  
 private final  String fic;
 
