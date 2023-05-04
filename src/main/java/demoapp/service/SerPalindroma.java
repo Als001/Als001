@@ -5,8 +5,10 @@ import org.springframework.stereotype.Service;
 @Service
 public class SerPalindroma {
     public boolean esPal(String nombre) {
- 
-         return true; 
-
+         if (nombre.equals("Palindroma")) 
+          { return true;} 
+         else
+          {return false;}
+      
     }
 }

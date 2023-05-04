@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<!-- Hay que declarar un th:object en el formulario con el mismo nombre que
+el tipo del modelo del formulario (UserDataP) cambiando la mayúscula de
+la primera letra por minúscula (userDataP) -->
+<form th:action="@{/esPal}" th:object="${userDataP}" method="post">
+    <table>
+        <tr>
+            <td>Verificar palabra:</td>
+            <td><input type="text" th:field="*{nombre}" /></td>
+            <td th:if="${#fields.hasErrors('nombre')}" th:errors="*{nombre}"></td>
+        </tr>
+        <tr>
+            <td><button type="submit">Validar</button></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
